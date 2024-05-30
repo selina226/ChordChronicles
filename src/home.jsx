@@ -20,7 +20,7 @@ function Home(){
         </section>
 
         <section className = "calendar-section">
-          <img src = 'public/images/calendar_image.png' alt = 'Chord Chronicles Calendar' />
+          <img src = './ChordChronicles/public/images/calendarimage.png' alt = 'Chord Chronicles Calendar' />
         </section>
 
         <section className = "practice-section">
